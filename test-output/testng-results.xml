@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[Clearing Data inUsername</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[Cleared Data inUsername</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[Entering Data inUsername</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank"href="screenshots/Username.png>">Entered Data inUsername</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[Clearing Data inPassword</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[Cleared Data inPassword</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[Entering Data inPassword</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank"href="screenshots/Password.png>">Entered Data inPassword</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[clicking an objectLogin</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[clicked an objectLogin</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank"href="screenshots/Login.png">Clicked an Object Login</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[clicking an objectMy Info</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[clicked an objectMy Info</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank"href="screenshots/My Info.png">Clicked an Object My Info</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[clicking an objectEmergency Contacts</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[clicked an objectEmergency Contacts</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank"href="screenshots/Emergency Contacts.png">Clicked an Object Emergency Contacts</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[clicking an objectAdd</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[clicked an objectAdd</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank"href="screenshots/Add.png">Clicked an Object Add</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[Clearing Data inName</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[Cleared Data inName</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[Entering Data inName</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank"href="screenshots/Name.png>">Entered Data inName</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[Clearing Data inRelationship</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[Cleared Data inRelationship</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[Entering Data inRelationship</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank"href="screenshots/Relationship.png>">Entered Data inRelationship</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[Clearing Data inHome Telephone</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[Cleared Data inHome Telephone</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[Entering Data inHome Telephone</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank"href="screenshots/Home Telephone.png>">Entered Data inHome Telephone</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[Clearing Data inMobile</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[Cleared Data inMobile</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[Entering Data inMobile</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank"href="screenshots/Mobile.png>">Entered Data inMobile</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[Clearing Data inWork Telephone</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[Cleared Data inWork Telephone</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[Entering Data inWork Telephone</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank"href="screenshots/Work Telephone.png>">Entered Data inWork Telephone</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[clicking an objectSave</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[clicked an objectSave</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank"href="screenshots/Save.png">Clicked an Object Save</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[clicking an objectCheckAll</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[click is not performedCheckAll</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[clicking an objectEdit</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[click is not performedEdit</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[Clearing Data inComment</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[hi hello ssup..??not entered inComment</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[clicking an objectCancle</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[click is not performedCancle</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[clicking an objectWelcome</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[clicked an objectWelcome</br></a>]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank"href="screenshots/Welcome.png">Clicked an Object Welcome</br></a>]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="29273" started-at="2017-10-31T10:11:57Z" finished-at="2017-10-31T10:12:26Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="29273" started-at="2017-10-31T10:11:57Z" finished-at="2017-10-31T10:12:26Z">
+      <class name="hrmscripts.Myinfo">
+        <test-method status="PASS" signature="Apply()[pri:0, instance:hrmscripts.Myinfo@548a9f61]" name="Apply" duration-ms="23725" started-at="2017-10-31T15:42:02Z" finished-at="2017-10-31T15:42:26Z">
+          <reporter-output>
+            <line>
+              <![CDATA[clicking an objectMy Info</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[clicked an objectMy Info</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank"href="screenshots/My Info.png">Clicked an Object My Info</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[clicking an objectEmergency Contacts</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[clicked an objectEmergency Contacts</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank"href="screenshots/Emergency Contacts.png">Clicked an Object Emergency Contacts</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[clicking an objectAdd</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[clicked an objectAdd</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank"href="screenshots/Add.png">Clicked an Object Add</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[Clearing Data inName</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[Cleared Data inName</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[Entering Data inName</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank"href="screenshots/Name.png>">Entered Data inName</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[Clearing Data inRelationship</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[Cleared Data inRelationship</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[Entering Data inRelationship</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank"href="screenshots/Relationship.png>">Entered Data inRelationship</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[Clearing Data inHome Telephone</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[Cleared Data inHome Telephone</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[Entering Data inHome Telephone</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank"href="screenshots/Home Telephone.png>">Entered Data inHome Telephone</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[Clearing Data inMobile</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[Cleared Data inMobile</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[Entering Data inMobile</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank"href="screenshots/Mobile.png>">Entered Data inMobile</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[Clearing Data inWork Telephone</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[Cleared Data inWork Telephone</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[Entering Data inWork Telephone</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank"href="screenshots/Work Telephone.png>">Entered Data inWork Telephone</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[clicking an objectSave</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[clicked an objectSave</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank"href="screenshots/Save.png">Clicked an Object Save</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[clicking an objectCheckAll</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[click is not performedCheckAll</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[clicking an objectEdit</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[click is not performedEdit</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[Clearing Data inComment</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[hi hello ssup..??not entered inComment</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[clicking an objectCancle</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[click is not performedCancle</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[clicking an objectWelcome</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[clicked an objectWelcome</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank"href="screenshots/Welcome.png">Clicked an Object Welcome</br></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Apply -->
+      </class> <!-- hrmscripts.Myinfo -->
+      <class name="hrmscripts.Login">
+        <test-method status="PASS" signature="tearUp()[pri:0, instance:hrmscripts.Login@4f933fd1]" name="tearUp" is-config="true" duration-ms="23765" started-at="2017-10-31T15:41:33Z" finished-at="2017-10-31T15:41:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearUp -->
+        <test-method status="PASS" signature="ValidLogin()[pri:0, instance:hrmscripts.Login@4f933fd1]" name="ValidLogin" duration-ms="5440" started-at="2017-10-31T15:41:57Z" finished-at="2017-10-31T15:42:02Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Clearing Data inUsername</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[Cleared Data inUsername</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[Entering Data inUsername</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank"href="screenshots/Username.png>">Entered Data inUsername</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[Clearing Data inPassword</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[Cleared Data inPassword</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[Entering Data inPassword</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank"href="screenshots/Password.png>">Entered Data inPassword</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[clicking an objectLogin</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[clicked an objectLogin</br></a>]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank"href="screenshots/Login.png">Clicked an Object Login</br></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidLogin -->
+      </class> <!-- hrmscripts.Login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

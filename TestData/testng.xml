@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="sample">
+    <classes>
+      <class name="hrmscripts.Myinfo"/>
+      <class name="hrmscripts.MyLeave"/>
+      <class name="hrmscripts.ApplyLeave"/>
+      <class name="hrmscripts.Myleaveapply"/>
+    </classes>
+  </test> <!-- sample -->
+</suite> <!-- Suite -->
